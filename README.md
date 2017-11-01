@@ -13,5 +13,5 @@ $ bin/rails server
 
 http://localhost:3000/memes
 
-![](https://media.giphy.com/media/PidUEaKvGAUco/giphy-downsized-large.gif)
+![](https://media.giphy.com/media/PLZHonWOdNj6U/giphy.gif)
 ![](https://i.imgur.com/GVJ06OK.jpg)
