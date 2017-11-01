@@ -15,4 +15,3 @@ http://localhost:3000/memes
 
 ![](https://media.giphy.com/media/PidUEaKvGAUco/giphy-downsized-large.gif)
 ![](https://i.imgur.com/GVJ06OK.jpg)
-![](http://jenios.com.br/wp-content/uploads/2017/05/juntas2.jpg)
