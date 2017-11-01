@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://www.ruby-lang.org/en/downloads/
 
-Things you may want to cover:
+gem install rails
 
-* Ruby version
+ruby 2.4.0p0 
+Rails 5.1.4
 
-* System dependencies
+Como rodar a app no navegador:
 
-* Configuration
+$ bin/rails server
 
-* Database creation
+http://localhost:3000/memes
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![](https://media.giphy.com/media/PidUEaKvGAUco/giphy-downsized-large.gif)
+![](https://i.imgur.com/GVJ06OK.jpg)
+![](http://jenios.com.br/wp-content/uploads/2017/05/juntas2.jpg)
