@@ -1,0 +1,19 @@
+<h1>Memes</h1>
+
+
+<%= link_to 'New meme', new_meme_path %>
+
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Text</th>
+  </tr>
+
+  <% @memes.each do |meme| %>
+    <tr>
+      <td><%= meme.title %></td>
+      <td><%= meme.text %></td>
+      <td><%= link_to 'Show', meme_path(meme) %></td>
+    </tr>
+  <% end %>
+</table>

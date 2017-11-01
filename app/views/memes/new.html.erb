@@ -1,0 +1,20 @@
+<h1>Registre seu meme</h1>
+
+
+<%= form_with scope: :meme, url: memes_path, local: true do |form| %>
+  <p>
+    <%= form.label :Meme %><br>
+    <%= form.text_field :title %>
+  </p>
+
+  <p>
+    <%= form.label :Backstory %><br>
+    <%= form.text_area :text %>
+  </p>
+
+  <p>
+    <%= form.submit %>
+  </p>
+<% end %>
+
+<%= link_to 'Back', memes_path %>
