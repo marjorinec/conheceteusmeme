@@ -1,4 +1,5 @@
-# README
+# Projeto de disciplina eletiva de webdev (IME-UERJ)
+### Descontinuado
 
 https://www.ruby-lang.org/en/downloads/
 
